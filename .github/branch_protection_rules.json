@@ -1,0 +1,6 @@
+{
+  "required_status_checks": ["CI/CD"],
+  "enforce_admins": true,
+  "required_pull_request_reviews": 1,
+  "restrictions": null
+}
